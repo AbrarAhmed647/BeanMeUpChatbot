@@ -1,1 +1,1 @@
-Prompting challenge for Lahzo
+Prompting challenge - Lahzo
