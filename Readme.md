@@ -1,2 +1,3 @@
 Prompting challenge - Lahzo
-Please use colab or any ipynb interpreter
+
+Please use colab or any Jupyter Notebook interpretor
